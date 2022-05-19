@@ -6,4 +6,4 @@ after cloning project run:
 - cp .env.example .env
 - php artisan key:generate
 
-create DB and in your .env setup your BD connection
+create DB and in your .env setup your DB connection
